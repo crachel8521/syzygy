@@ -1016,7 +1016,8 @@
 }
 
 .teal-text.text-lighten-2 {
-  color: #4db6ac !important;
+  color: #35817a !important;
+  text-shadow: 0 0 0.1em #F87, 0 0 0.1em #F87;
 }
 
 .teal.lighten-1 {
